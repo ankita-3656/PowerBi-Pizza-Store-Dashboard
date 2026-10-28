@@ -5,26 +5,20 @@
 Pizza Sales Analytics: Interactive Power BI Dashboard
 An interactive Power BI dashboard designed to analyze pizza store sales, track business performance, and understand customer preferences and product sales.
 
-2. Short Description / Purpose
+2. Short Description
 The Pizza Sales Analytics Dashboard is an interactive Power BI report designed to analyze pizza store sales and business performance throughout the year. It includes three dashboard pages that provide insights into total revenue, sales trends, top customers, best-selling pizzas, and underperforming products. The dashboard helps users understand sales patterns, identify popular products, and evaluate overall business performance to support better business decisions.
 
 3. Tech Stack
-List the key technologies used to build the dashboard.
-
-Example: The dashboard was built using the following tools and technologies:
 • 📊 Power BI Desktop – Main data visualization platform used for report creation.
 • 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
 • 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.
-• 📝 Data Modeling – Relationships established among tables (orders, orders-details, and pizza) to enable cross-filtering and aggregation.
+• 📝 Data Modeling – Relationships established among tables (orders, orders-details, and pizza-type, pizzas) to enable cross-filtering and aggregation.
 • 📁 File Format – .pbix for development and .png for dashboard previews.
 
 4. Data Source
-More info on where the data comes from and how it’s structured Example: Source: Ski-resort-stats.com & NASA Earth Observations.
-
-Data on ~500 ski resorts around the world, including details on their location, prices, slopes, lifts, and seasons, as well as a complementary table with the snow cover around the world for each month of 2022.
+Source: This pizza data got from kaggle, it includes 4 csv files.
 
 5. Features / Highlights
-The best dashboard explanation format. • Business problem • Goal of the dashboard • Walk through of key visuals (briefly!) • Business impact & Insights
 
 Example: • Business Problem The global ski tourism industry generates billions in revenue, yet travelers, tour operators, and analysts often lack an intuitive way to compare resorts across countries.
 
