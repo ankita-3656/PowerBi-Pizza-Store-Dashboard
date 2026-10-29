@@ -43,7 +43,7 @@ Uncovers sales trends throughout the year to help the store understand its perfo
 - Sales by Pizza Category: Compares sales across pizza categories.
 - Revenue by Top-Selling Pizzas: Identifies the pizzas generating the most revenue.
 
-https://github.com/ankita-3656/PowerBi-Pizza-Store-Dashboard/blob/main/Pizza%20overview%20dashboard.PNG
+![Pizza Sales Overview Dashboard](Pizza%20overview%20dashboard.PNG)
 
 
 2. Product Analysis Dashboard
@@ -51,7 +51,7 @@ https://github.com/ankita-3656/PowerBi-Pizza-Store-Dashboard/blob/main/Pizza%20o
 - Veg vs. Non-Veg Sales: Compares customer preferences.
 - Bottom 3 Pizzas by Sales: Identifies underperforming products.
 
-https://github.com/ankita-3656/PowerBi-Pizza-Store-Dashboard/blob/main/Product%20dashboard.PNG
+![Pizza Product Analysis Dashboard](Product%20dashboard.PNG)
 
 
 
@@ -59,4 +59,4 @@ https://github.com/ankita-3656/PowerBi-Pizza-Store-Dashboard/blob/main/Product%2
 - Top Buyers: Highlights customers with high purchase amounts.
 - One-Time vs. Repeat Customers: Shows the distribution of customer purchasing behavior.
 
-https://github.com/ankita-3656/PowerBi-Pizza-Store-Dashboard/blob/main/Customer%20dashboard.PNG
+![Pizza Customer Analysis Dashboard](Customer%20dashboard.PNG)
