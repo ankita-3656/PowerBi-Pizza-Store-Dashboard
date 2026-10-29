@@ -42,8 +42,8 @@ Uncovers sales trends throughout the year to help the store understand its perfo
 - Monthly Sales Performance: Shows how sales change throughout the year.
 - Sales by Pizza Category: Compares sales across pizza categories.
 - Revenue by Top-Selling Pizzas: Identifies the pizzas generating the most revenue.
-[
-](https://github.com/ankita-3656/PowerBi-Pizza-Store-Dashboard/blob/main/Pizza%20overview%20dashboard.PNG)
+
+https://github.com/ankita-3656/PowerBi-Pizza-Store-Dashboard/blob/main/Pizza%20overview%20dashboard.PNG
 
 
 2. Product Analysis Dashboard
@@ -51,7 +51,7 @@ Uncovers sales trends throughout the year to help the store understand its perfo
 - Veg vs. Non-Veg Sales: Compares customer preferences.
 - Bottom 3 Pizzas by Sales: Identifies underperforming products.
 
-
+https://github.com/ankita-3656/PowerBi-Pizza-Store-Dashboard/blob/main/Product%20dashboard.PNG
 
 
 
