@@ -1,22 +1,28 @@
 # PowerBi-Pizza-Store-Dashboard
 
-Pizza Sales Analytics: Interactive Power BI Dashboard
+Pizza Sales Analytics: Power BI Dashboard
 An interactive Power BI dashboard designed to analyze pizza store sales, track business performance, and understand customer preferences and product sales.
 
-2. Short Description
+Short Description
 The Pizza Sales Analytics Dashboard is an interactive Power BI report designed to analyze pizza store sales and business performance throughout the year. It includes three dashboard pages that provide insights into total revenue, sales trends, top customers, best-selling pizzas, and underperforming products. The dashboard helps users understand sales patterns, identify popular products, and evaluate overall business performance to support better business decisions.
 
-3. Tech Stack
+
+
+Tech Stack
 • 📊 Power BI Desktop – Main data visualization platform used for report creation.
 • 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
 • 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.
 • 📝 Data Modeling – Relationships established among tables (orders, orders-details, and pizza-type, pizzas) to enable cross-filtering and aggregation.
 • 📁 File Format – .pbix for development and .png for dashboard previews.
 
-4. Data Source
+
+
+Data Source
 Source: This pizza data got from kaggle, it includes 4 csv files.
 
-5. Features / Highlights
+
+
+Features / Highlights
 
 Key questions such as:
 Which pizzas generate the highest and lowest sales?
@@ -31,11 +37,26 @@ Uncovers sales trends throughout the year to help the store understand its perfo
 
 • Walkthrough of Key Visuals:
 
-Key KPIs (Top Left) Total number of resorts: 499 Resorts with summer skiing: 29 Resorts with night skiing: 204 Child-friendly resorts: 495 Countries covered: 38 Continents represented: 5
-Continent Filter Panel An interactive slicer lets users filter all visuals by selected continents, such as Europe or Asia.
-Top Countries with Most Resorts (Bar Chart) Bar chart ranks countries like Austria, France, and the U.S. by number of ski resorts.
-Slopes by Resort (Line Chart) Displays the distribution of slope types (beginner, intermediate, expert, and total). Helps identify which resorts favor beginners vs. experts.
-Resorts by Skill Level (Dual Line Charts) Two line visuals side by side: one for resorts that cater to beginners, another for experts—allowing skill-level segmentation.
-Elevation Stats (Grouped Bar Chart) Compare the highest and lowest elevation points of resorts to understand terrain steepness and potential snow quality.
-Lift Types by Resort (Stacked Bar Chart) Stacked bar chart showing: Gondola lifts Chair lifts Surface lifts Total lifts This helps users gauge resort infrastructure and capacity.
-• Business Impact & Insights Marketing Optimization: Travel agencies can use this dashboard to identify key selling points for different demographics (e.g., child-friendly resorts or expert terrain). Strategic Expansion: Resort developers can spot underdeveloped regions with high potential. Vacation Planning: Tourists can plan trips based on slope availability, elevation, and terrain difficulty. Regional Analysis: Governments and tourism bodies can analyze competitiveness by region
+1. Overview Dashboard
+- Key KPIs: Total revenue, total orders, and total pizzas sold.
+- Monthly Sales Performance: Shows how sales change throughout the year.
+- Sales by Pizza Category: Compares sales across pizza categories.
+- Revenue by Top-Selling Pizzas: Identifies the pizzas generating the most revenue.
+[
+](https://github.com/ankita-3656/PowerBi-Pizza-Store-Dashboard/blob/main/Pizza%20overview%20dashboard.PNG)
+
+
+2. Product Analysis Dashboard
+- Top 10 Pizzas by Quantity Sold: Identifies the most popular pizzas.
+- Veg vs. Non-Veg Sales: Compares customer preferences.
+- Bottom 3 Pizzas by Sales: Identifies underperforming products.
+
+
+
+
+
+3. Customer Analysis Dashboard
+- Top Buyers: Highlights customers with high purchase amounts.
+- One-Time vs. Repeat Customers: Shows the distribution of customer purchasing behavior.
+
+https://github.com/ankita-3656/PowerBi-Pizza-Store-Dashboard/blob/main/Customer%20dashboard.PNG
