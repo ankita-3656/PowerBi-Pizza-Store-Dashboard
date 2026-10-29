@@ -1,7 +1,5 @@
 # PowerBi-Pizza-Store-Dashboard
 
-
-
 Pizza Sales Analytics: Interactive Power BI Dashboard
 An interactive Power BI dashboard designed to analyze pizza store sales, track business performance, and understand customer preferences and product sales.
 
@@ -20,13 +18,18 @@ Source: This pizza data got from kaggle, it includes 4 csv files.
 
 5. Features / Highlights
 
-Example: • Business Problem The global ski tourism industry generates billions in revenue, yet travelers, tour operators, and analysts often lack an intuitive way to compare resorts across countries.
+Key questions such as:
+Which pizzas generate the highest and lowest sales?
+Which months have the highest revenue?
+Who are the top customers based on their spending or orders?
+Which pizza categories or sizes are the most popular?
 
-Key questions such as: Which regions offer the most family-friendly or expert-level skiing? Where is summer skiing available? What countries have the most well-equipped resorts? … are difficult to answer quickly with raw data.
+• Goal of the Dashboard:
+Helps users track pizza sales, revenue, and overall business performance.
+Improves business decisions by identifying top-selling pizzas, underperforming products, and top customers.
+Uncovers sales trends throughout the year to help the store understand its performance and identify areas for improvement.
 
-• Goal of the Dashboard To deliver an interactive visual tool that: Enables users to explore ski resorts globally. Supports decisions such as vacation planning, regional marketing, or infrastructure investment. Uncovers trends in terrain, accessibility, and tourism capacity by region and resort.
-
-• Walkthrough of Key Visuals
+• Walkthrough of Key Visuals:
 
 Key KPIs (Top Left) Total number of resorts: 499 Resorts with summer skiing: 29 Resorts with night skiing: 204 Child-friendly resorts: 495 Countries covered: 38 Continents represented: 5
 Continent Filter Panel An interactive slicer lets users filter all visuals by selected continents, such as Europe or Asia.
